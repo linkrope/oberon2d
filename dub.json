@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Mario Kröplin"
+	],
+	"copyright": "Copyright © 2019, Mario Kröplin",
+	"description": "Oberon to D Translator",
+	"license": "BSL-1.0",
+	"name": "oberon2d",
+	"targetType": "executable",
+	"targetPath": "bin",
+	"mainSourceFile": "src/oberon2d.d"
+}
